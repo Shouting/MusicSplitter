@@ -3,7 +3,7 @@ Splits big audio stream into separate tracks with provided metadata.
 
 ### How to use
 Easy peasy:
-1. Have Python 3+ installed
+1. Have Python 3+ and ffmpeg installed (ffmpeg must be invokable from termial/cmd)
 2. Open `tracks.txt`.
 3. Edit the file to add information you need:
 ```
